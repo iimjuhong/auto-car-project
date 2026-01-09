@@ -1,4 +1,4 @@
-name: sim
+name: iimjuhong
 channels:
   - conda-forge
 dependencies:
