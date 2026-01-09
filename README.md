@@ -140,3 +140,7 @@ NVIDIA (시뮬레이션/합성데이터/디지털트윈 “플랫폼”)
 
 Waymo (모듈형 스택 + 대규모 closed-loop 시뮬 평가)
 - Waymo는 “SimulationCity” 같은 시뮬 도구로 Waymo Driver 전체를 평가한다고 공개했고, 연구 측면에선 Waymax 같은 시나리오 기반 시뮬 라이브러리도 공개함.
+
+# Results
+<img width="2554" height="1278" alt="image" src="https://github.com/user-attachments/assets/01b533b7-998f-4b02-a0ee-045f28b7a58d" />
+
